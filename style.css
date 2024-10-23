@@ -16,7 +16,13 @@
   --fw-400: 400;
   --font-family: "DM Sans", sans-serif;
 }
-
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 *,
 *::before,
 *::after {
